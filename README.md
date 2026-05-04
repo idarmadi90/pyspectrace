@@ -27,13 +27,14 @@
 ## List of working spectrometers
 PySpecTrace v.1.0.0 has been tested and working seamlessly with these commercial spectrometers (on Windows OS):
 ### Ocean optics:
-- Maya PRO2000
-- HR 4000CG-UV-NIR
-- USB4000
+- Maya PRO2000 (by @anamsigit)
+- HR 4000CG-UV-NIR (by @idarmadi)
+- USB4000 (by @sigthaii)
 ### Avantes:
-- AvaSpec-ULS4096CL-EVO
+- AvaSpec-ULS4096CL-EVO (by @idarmadi)
+- AvaSpec-2048-USB2 (by @JoshhhLee)
 ### CNI:
-- Aurora 4000
+- Aurora 4000 (by @anamsigit)
 
 Please add to the list if you have found that it works in your spectrometer. It will be a nice information for new user.
 
